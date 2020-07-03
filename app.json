@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pong",
+    "name": "Pong",
     "slug": "pong",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An amazing game!",
+    "githubUrl": "https://github.com/askhat/pong-react-native"
   }
 }
